@@ -8,6 +8,6 @@ https://goo.gl/forms/9NbWrnl65UfbrKs62
 
 #group Members:-
 
-1:-Talib Mari
-2:-Shahnawaz
-3:-Doulat Kachi
+1:-Talib Mari     2k17/CSEE/107
+2:-Shahnawaz      2k17/CSEE/99
+3:-Doulat Kachhi  2k17/CSEE/30
