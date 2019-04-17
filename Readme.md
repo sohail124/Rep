@@ -1,10 +1,10 @@
 Online Attandance System
 
 This is online Attandance system which is directly connected by Gmail.
-I'm created this web with the help of  Googleform and Googlesheet 
+This online based website is created with the help of  Googleform and Googlesheet 
 
 URL:-
-https://goo.gl/forms/9NbWrnl65UfbrKs62
+https://docs.google.com/forms/d/e/1FAIpQLSfuhBqXd11G0XOKYjq2m6Zkb_-YFB9iRCL7wc13ToD-OCvnEg/viewform
 
 #group Members:-
 
